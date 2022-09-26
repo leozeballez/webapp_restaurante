@@ -1,0 +1,62 @@
+.dark {
+  background-color: #1f1f1f;
+  color: #f1eded;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+hr{
+  border-width:4px;
+}
+
+#menu_pizzas {
+  text-decoration: underline;
+}
+
+#menu_pizzas:hover {
+  cursor: pointer;
+  opacity: 0.85;
+}
+
+.navegacion:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.sinSubrayado {
+  text-decoration: none;
+}
+
+#logo {
+  width: 250px;
+}
+
+#logo_detalle {
+  width: 100px;
+}
+
+.negrita {
+  font-weight: bold;
+}
+
+#logoPedidosYa {
+  width: 100px;
+}
+
+.imagenes {
+  width: 300px;
+  height: 200px;
+}
+
+.redes {
+  width: 20px;
+  height: 20px;
+}
