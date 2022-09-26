@@ -4,3 +4,5 @@ La idea es poder tener un inicio donde se muestren algunas imágenes de los prod
 Es navegable hacia los menús disponibles a la fecha y también se puede contactar enviando un mensaje con los datos del usuario que quiera contactarse.
 
 Se utilizó bootstrap 5.2.1
+
+![webapp](/webapp.png?raw=true)
